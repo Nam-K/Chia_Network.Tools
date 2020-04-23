@@ -1,3 +1,13 @@
+# this file is full of garbage code left from a kinf of extract from original create_plots script from Chia.
+# it can works if you input the same parameters as if you were gonna plot.
+# it doesn't write to files anymore. Just read and display.
+# so i was calling it this way if i had 10 plots in config file and all.
+#
+# chia-skkey-gen -k 31 -n 10 -t /mnt/g/working -d /mnt/e/plots
+#
+#-k must be same as your plots
+
+
 import argparse
 from pathlib import Path
 
