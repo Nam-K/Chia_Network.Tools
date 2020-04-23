@@ -1,6 +1,8 @@
 # Chia_Network.Tools
 Some tools for the Chia Network on Windows env.
 
+I HAVE NOTHING TO DO WITH THE CHIA NETWORK OFFICIAL TEAM. i am just an enthusiast. I love Chia Network project.
+
 For now, there is only a beginning of nothing. Only a ./debug.log file reader/parser. (i'm lazy i know)
 I will add more with time, with the things i need.
 
